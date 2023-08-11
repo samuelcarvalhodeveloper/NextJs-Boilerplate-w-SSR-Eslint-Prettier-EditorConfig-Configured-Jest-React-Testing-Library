@@ -17,7 +17,7 @@ NextJs Boilerplate With SSR Eslint Prettier EditorConfig Configured Jest React T
 
 <h3 id="description">✍️ Description:</h3>
 
-<p>Some times I need a quick project start up. To make this real I decided to create a fast Next Js BoilerPlate to just programme, when this is all you want.</p>
+<p>Some times I need a quick project start up. To make this real I decided to create a fast Next Js Boilerplate to just programme, when this is all you want.</p>
 
 <br />
 
