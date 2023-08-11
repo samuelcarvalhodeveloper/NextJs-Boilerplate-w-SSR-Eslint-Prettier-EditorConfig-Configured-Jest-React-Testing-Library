@@ -37,6 +37,10 @@ NextJs Boilerplate With SSR Eslint Prettier EditorConfig Configured Jest React T
 
 `npm run build`
 
+**To Run The Tests:**
+
+`npm run test`
+
 <br />
 
 <h3 id="technologies">🚀  Technologies:</h3>
